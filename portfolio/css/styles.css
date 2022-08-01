@@ -1,6 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=VT323&display=swap');
+
+
 body {
   font-family: "Montserrat";
   text-align: center;
+}
+#alien{
+  font-family: 'VT323',
+    monospace;
 }
 
 h1,
@@ -23,7 +30,8 @@ p {
 /* Headings */
 
 .big-heading {
-  font-family: "Montserrat-Black";
+  font-family: 'Poppins',
+    sans-serif;
   font-size: 3.5rem;
   line-height: 1.5;
 }
